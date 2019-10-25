@@ -16,6 +16,7 @@ You won't believe yourself until you build it. Let's learn xxx from reinvent the
 - [Languages](/languages)
 - [Debugging tools](/debuggers)
 - [Broswers](/broswers)
+- [Editors](/editors)
 
 
 # Contribution
